@@ -1,5 +1,4 @@
-# Soulstyler
-Soulstyler: Text-Guided Image Stylization for Targeted Object
+# FineStyler
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_zoECa-4KXcvCxY9zqA1lp44vL6pT4AG?usp=sharing)
 
