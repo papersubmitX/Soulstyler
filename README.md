@@ -1,10 +1,10 @@
 # FineStyler
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_zoECa-4KXcvCxY9zqA1lp44vL6pT4AG?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VK1FHEbh_PRWqeco791bZ_du7GSA1mJr#scrollTo=-MzxfigWiFte)
 
 ---
 
-**We provide a demo on colab that can be easily run!** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_zoECa-4KXcvCxY9zqA1lp44vL6pT4AG?usp=sharing)
+**We provide a demo on colab that can be easily run!**[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VK1FHEbh_PRWqeco791bZ_du7GSA1mJr#scrollTo=-MzxfigWiFte)
 
 
 ``⚠: demo in colab needs to download the model from the internet 
@@ -44,7 +44,7 @@ https://drive.google.com/file/d/10wo4R7sGWw5ITHpjtv3dIbIbkGpvkMiJ/view?usp=shari
 
 
 ### 1. Single Image Style Transfer
-Use this colab->[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_zoECa-4KXcvCxY9zqA1lp44vL6pT4AG?usp=sharing)
+Use this colab->[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VK1FHEbh_PRWqeco791bZ_du7GSA1mJr#scrollTo=-MzxfigWiFte)
 
 
 ### 2. Multiple Image Style Transfer
